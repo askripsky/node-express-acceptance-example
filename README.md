@@ -1,4 +1,4 @@
-This is a example of automated acceptance tests using: [Protractor](https://github.com/angular/protractor), [Mocha](http://visionmedia.github.io/mocha/) and [Chai](http://chaijs.com/).
+This is a example of automated acceptance tests using: [Protractor](https://github.com/angular/protractor), [Mocha](http://mochajs.org/) and [Chai](http://chaijs.com/).
 
 There are examples for Angular and non-Angular pages.
 
